@@ -1,4 +1,4 @@
-# Kanban
+# Task Track
 
 ## Tags
 
@@ -8,12 +8,12 @@
 
 ## Features
 
-- [x] Drag and Drop
+- [x] Drag and Drop 
   - [x] Drag and drop tasks between columns (status)
 - [x] CRUD
   - [x] Create and edit tasks
   - [x] Create, edit, remove columns (status)
-  - [x] Create, edit, remove boards [x
+  - [x] Create, edit, remove boards 
 - [x] Mobile responsive
 - [x] localStorage
 
@@ -47,8 +47,3 @@ $ yarn dev
 # npm
 $ npm run dev
 ```
-
-## Authors
-
-- [@anteroselin](https://www.github.com/anteroselin)
-- [@arthurlee](https://www.github.com/arthur9371)
